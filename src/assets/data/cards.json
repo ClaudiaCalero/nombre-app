@@ -1,0 +1,51 @@
+{
+    "cards": [{
+        "id": 1,
+        "imgName": "Florence Welch x Gucci",
+        "imgUser": "Gucci1",
+        "imgURL": "florenceWelchxGucci"
+    },
+    {
+        "id": 2,
+        "imgName": "Florence Welch x Gucci",
+        "imgUser": "Gucci Campaign",
+        "imgURL": "gucciBloomCampaign"
+    },
+    {
+        "id": 3,
+        "imgName": "Florence Welch x Gucci",
+        "imgUser": "Gucci Brand",
+        "imgURL": "florenceWelchGucci"
+    },
+    {
+        "id": 4,
+        "imgName": "Mugler Runaway 90's",
+        "imgUser": "Mugler",
+        "imgURL": "muggler90"
+    },
+    {
+        "id": 5,
+        "imgName": "Mugler Runaway 90's",
+        "imgUser": "Mugler",
+        "imgURL": "muggler90Autumn"
+    },
+    {
+        "id": 6,
+        "imgName": "Mugler Runaway 90's",
+        "imgUser": "Mugler",
+        "imgURL": "mugler90runaway"
+    },
+    {
+        "id": 7,
+        "imgName": "Rodarte Spring-Summer 2020",
+        "imgUser": "Rodarte",
+        "imgURL": "rodarte2020"
+    },
+    {
+        "id": 8,
+        "imgName": "Rodarte Spring-Summer 2020",
+        "imgUser": "Rodarte",
+        "imgURL": "rodarteSpringSummer2020"
+    }
+    ]
+}

@@ -1,0 +1,9 @@
+$colorPrincipal: #034C5F;
+$colorSecondary: #0A2C38;
+$colorCard: #125669;
+$filterPrincipal: #50514F;
+@mixin displayFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
